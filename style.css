@@ -1,0 +1,79 @@
+body {
+	background-image:url('desert.jpg');
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:100% 100%
+}
+
+body {
+  font-family: sans-serif;
+}
+
+
+
+#box1 {
+  background-color: #ffff99;
+  width: 300px;
+  border: 15px solid #00e699;
+  padding: 50px;
+  margin: 20px;
+  
+}
+
+#headbox {
+	background-color: lightblue;
+	width: 800px;
+	border: 5px solid blue;
+	padding: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #ff6600; 
+	font-family: times new roman;
+	font-size: 12pt;
+	
+}
+
+
+ol {
+	font-family: monospace;
+	font-size: 14pt;
+	color: #ff0000;	
+	
+}
+
+ul {
+	
+	font-family: monospace;
+	font-size: 14pt;
+	color: #ff0000;	
+	
+}
+
+img {
+	max-width: 20%;
+	height: auto;
+	border-radius: 50%;
+	border: 10px solid #ff6600;
+	
+}
+
+
+        table,
+        th,
+        td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            padding: 5px;
+        }
+ 
+        tr:nth-child(odd) {
+            background-color: #99ffcc;
+        }
+		tr:nth-child(even) {
+            background-color: white;
+        }
+
+a:hover {
+  /* Define the hover effect for links */
+  color
+  
